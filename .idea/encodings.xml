@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/CustomView/RoundImage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/CustomView/ScrimInsetsFrameLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/CustomView/ScrimInsetsFrameLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/Navigation/NavigationDrawerAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/Navigation/NavigationDrawerCallbacks.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/Navigation/NavigationDrawerFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/koovematerial/Navigation/NavigationItem.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/koove/retrofit/RetrofitFieldMap.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_check.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_check.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/wallpaper.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/drawer_row.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_google.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

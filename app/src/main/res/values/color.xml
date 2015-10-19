@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#F44336</color>
+    <color name="dark_primary_color">#D32F2F</color>
+    <color name="light_primary_color">#FFCDD2</color>
+    <color name="toolbar_text_color">#FFFFFF</color>
+    <color name="accent_color">#FFFFFF</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#727272</color>
+    <color name="selected_grey">#B1B1B1</color>
+
+</resources>
